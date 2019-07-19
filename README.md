@@ -6,3 +6,6 @@ O365 Developer setup subscription:
 https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program
 
 https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program-get-started
+
+Day 1 Feedback: https://www.surveymonkey.com/r/2BCXWXR
+
