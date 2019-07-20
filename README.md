@@ -44,3 +44,6 @@ To install the SharePoint Framework Yeoman generator globally, enter the followi
 
 npm install -g @microsoft/generator-sharepoint
 
+
+https://github.com/SharePoint/sp-dev-modernization/blob/dev/Tools/SharePoint.Modernization/Releases/SharePoint.Modernization.Scanner.exe?raw=true
+
