@@ -1,0 +1,46 @@
+Github.com/ashokkumarazure/SPOnline (For all contents download)
+
+For below sites:-
+user id: ashwaniishwar@irissoftware01.onmicrosoft.com
+pwd:babluash@1
+
+https://www.office.com/ (Url for office365)
+https://admin.microsoft.com (Admin url for office365)
+https://irissoftware01-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home
+
+https://portal.azure.com
+https://provisioning.sharepointpnp.com/
+
+To install SharePoint Framework (SPFx) software:-
+Open Windows Powershell:-
+install-module MSOnline
+install-module Microsoft.Online.Sharepoint.Powershell
+install-module SharepointPnPPowershellOnline
+
+For command help:-
+get-help *mso* (For MS Online command)
+get-help *spo* (For Sharepoint command)
+get-help *pnp* (For PnP command)
+
+Install Node.js and Visual Studio Code
+
+Open Node.js command prompt for supporting software:-
+
+npm install -g yo gulp
+npm install -g @Microsoft/generator-sharepoint
+
+yo @microsoft/sharepoint (To Create Sharepoint Project)
+gulp -trust-dev-cert (To create certificate in case of certificate error)
+gulp serve (To run Webpart application)
+
+gulp build
+gulp package-solution
+gulp --ship
+
+gulp serve-nobrowser
+
+Hybrid Search
+
+ShareGate (For Migration)
+
+Webhook API
